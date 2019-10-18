@@ -2,8 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85440f06-ef0a-4dc7-8d9c-ba3e3e77149d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/video.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/css/animate.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/css/u-reset.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/images/slide1/bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/images/slide1/block.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/images/slide1/fav.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/images/slide1/gongyi.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/images/slide1/price.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/images/slide1/quanquan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/images/slide1/shoes.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/images/slide1/title.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/images/slide2/bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/images/slide2/shoes.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/images/slide3/shoes.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/images/slide4/shoes.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/images/slide4/up.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/images/slide5/shoes.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/images/slide6/shoes1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/images/slide6/shoes2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/images/slide7/index.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/images/slide7/options.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/images/slide8/banner1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/images/slide8/banner2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/images/slide8/banner3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/images/slide8/fav.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/images/zhuangshi.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/images/zhuangshi2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/js/swiper.animate1.0.3.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/video.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/video.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/video.html" afterPath="$PROJECT_DIR$/video.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,21 +44,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="demo.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="video.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/video.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="104" column="26" lean-forward="false" selection-start-line="104" selection-start-column="26" selection-end-line="104" selection-end-column="26" />
+            <state relative-caret-position="161">
+              <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="27" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -45,7 +65,10 @@
         <option value="$PROJECT_DIR$/demo.html" />
         <option value="$PROJECT_DIR$/two.html" />
         <option value="$PROJECT_DIR$/one.html" />
+        <option value="$PROJECT_DIR$/video.css" />
+        <option value="$PROJECT_DIR$/video.js" />
         <option value="$PROJECT_DIR$/video.html" />
+        <option value="$PROJECT_DIR$/html/index.html" />
       </list>
     </option>
   </component>
@@ -95,6 +118,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,12 +127,21 @@
               <item name="166" type="b2602c69:ProjectViewProjectNode" />
               <item name="166" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="166" type="b2602c69:ProjectViewProjectNode" />
+              <item name="166" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="html" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="166" type="b2602c69:ProjectViewProjectNode" />
+              <item name="166" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="html" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -118,6 +152,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/html/css" />
+      <recent name="$PROJECT_DIR$/html/js" />
+      <recent name="$PROJECT_DIR$/html" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -147,12 +184,13 @@
       <option name="presentableId" value="Default" />
       <updated>1571300798560</updated>
       <workItem from="1571300801543" duration="1842000" />
-      <workItem from="1571358917840" duration="6810000" />
+      <workItem from="1571358917840" duration="8240000" />
+      <workItem from="1571370228433" duration="454000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8652000" />
+    <option name="totallyTimeSpent" value="10536000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -165,7 +203,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1615509" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16397415" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -195,7 +233,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -211,7 +248,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -219,7 +255,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="73" column="17" lean-forward="true" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="776">
+          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -227,14 +283,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/images/slide1/bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/css/u-reset.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="1" column="120" lean-forward="false" selection-start-line="1" selection-start-column="111" selection-end-line="1" selection-end-column="120" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/video.html">
+    <entry file="file://$PROJECT_DIR$/html/images/zhuangshi.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/js/swiper.animate1.0.3.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="104" column="26" lean-forward="false" selection-start-line="104" selection-start-column="26" selection-end-line="104" selection-end-column="26" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/css/animate.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="27" selection-end-column="9" />
           <folding />
         </state>
       </provider>
